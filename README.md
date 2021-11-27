@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rezvi Rayhan
 #### MERN Stack Web Developer 
-![MERN Stack Web Developer ](https://i.ibb.co/fG66qLX/my-bg.png)
+![MERN Stack Web Developer ](https://i.ibb.co/XJWvHQb/IMG-20200321-214424.jpg)
 
 My Name is Rezvi Rayhan. I'm also Student. Now this time I'm studying Engineering at Computer since.
 Currently, I am trying to build my career with this MERN Stack Web Development.
